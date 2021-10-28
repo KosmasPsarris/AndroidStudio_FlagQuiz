@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Flag Quiz</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_name">Please enter your name</string>
+    <string name="name_hint">Name</string>
+    <string name="start_button">Start</string>
+    <string name="default_question">What country does this flag belong to?</string>
+    <string name="flag_description">Flag</string>
+    <string name="submit_button">Submit</string>
+    <string name="next_question_button">Go to next question</string>
+    <string name="finish_button">Finish</string>
+    <string name="result">Result</string>
+    <string name="trophy_description">Trophy</string>
+    <string name="congratulations">Hey, Congratulations!</string>
+
+    <string name="progressBar_dynamic">%1$s / %2$s</string>
+    <string name="score_is">Your score is %1$s out of %2$s</string>
+</resources>
